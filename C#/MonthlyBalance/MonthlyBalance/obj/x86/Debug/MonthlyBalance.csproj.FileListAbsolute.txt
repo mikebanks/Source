@@ -1,0 +1,16 @@
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\ResolveAssemblyReference.cache
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\MonthlyBalance.Properties.Resources.resources
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\GenerateResource.read.1.tlog
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\GenerateResource.write.1.tlog
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\bin\Debug\MonthlyBalance.exe
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\bin\Debug\MonthlyBalance.pdb
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\MonthlyBalance.exe
+\\jaguar\mbanks5\visual studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\MonthlyBalance.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\MonthlyBalance.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\MonthlyBalance.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\bin\Debug\MonthlyBalance.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\bin\Debug\MonthlyBalance.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\MonthlyBalance.Properties.Resources.resources
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\MonthlyBalance\MonthlyBalance\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,7 @@
+z:\Visual Studio 2010\Projects\Christmas Bill\Christmas Bill\bin\Debug\Christmas Bill.exe
+z:\Visual Studio 2010\Projects\Christmas Bill\Christmas Bill\bin\Debug\Christmas Bill.pdb
+z:\Visual Studio 2010\Projects\Christmas Bill\Christmas Bill\obj\x86\Debug\ResolveAssemblyReference.cache
+z:\Visual Studio 2010\Projects\Christmas Bill\Christmas Bill\obj\x86\Debug\Christmas Bill.exe
+z:\Visual Studio 2010\Projects\Christmas Bill\Christmas Bill\obj\x86\Debug\Christmas Bill.pdb
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\Christmas Bill\Christmas Bill\obj\x86\Debug\Christmas Bill.exe
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\Christmas Bill\Christmas Bill\obj\x86\Debug\Christmas Bill.pdb

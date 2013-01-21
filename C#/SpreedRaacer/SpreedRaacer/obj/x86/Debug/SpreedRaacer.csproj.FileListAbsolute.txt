@@ -1,0 +1,24 @@
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\bin\Debug\SpreedRaacer.exe
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\bin\Debug\SpreedRaacer.pdb
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.Properties.Resources.resources
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.exe
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.pdb
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.csprojResolveAssemblyReference.cache
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.csproj.GenerateResource.Cache
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.exe
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.pdb
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\bin\Debug\SpreedRaacer.exe
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\bin\Debug\SpreedRaacer.pdb
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.Properties.Resources.resources
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\bin\Debug\SpreedRaacer.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\bin\Debug\SpreedRaacer.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.Properties.Resources.resources
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\SpreedRaacer\SpreedRaacer\obj\x86\Debug\SpreedRaacer.Form1.resources

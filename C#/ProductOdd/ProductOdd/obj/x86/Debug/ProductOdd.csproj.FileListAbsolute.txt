@@ -1,0 +1,10 @@
+z:\Visual Studio 2010\Projects\ProductOdd\ProductOdd\bin\Debug\ProductOdd.exe
+z:\Visual Studio 2010\Projects\ProductOdd\ProductOdd\bin\Debug\ProductOdd.pdb
+z:\Visual Studio 2010\Projects\ProductOdd\ProductOdd\obj\x86\Debug\ResolveAssemblyReference.cache
+z:\Visual Studio 2010\Projects\ProductOdd\ProductOdd\obj\x86\Debug\ProductOdd.exe
+z:\Visual Studio 2010\Projects\ProductOdd\ProductOdd\obj\x86\Debug\ProductOdd.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\ProductOdd\ProductOdd\obj\x86\Debug\ProductOdd.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\ProductOdd\ProductOdd\obj\x86\Debug\ProductOdd.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\ProductOdd\ProductOdd\bin\Debug\ProductOdd.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\ProductOdd\ProductOdd\bin\Debug\ProductOdd.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\ProductOdd\ProductOdd\obj\x86\Debug\ResolveAssemblyReference.cache

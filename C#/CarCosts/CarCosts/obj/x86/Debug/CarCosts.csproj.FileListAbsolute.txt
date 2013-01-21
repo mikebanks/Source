@@ -1,0 +1,6 @@
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\CarCosts\CarCosts\bin\Debug\CarCosts.exe
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\CarCosts\CarCosts\bin\Debug\CarCosts.pdb
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\CarCosts\CarCosts\obj\x86\Debug\CarCosts.exe
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\CarCosts\CarCosts\obj\x86\Debug\CarCosts.pdb
+z:\Visual Studio 2010\Projects\CarCosts\CarCosts\obj\x86\Debug\CarCosts.exe
+z:\Visual Studio 2010\Projects\CarCosts\CarCosts\obj\x86\Debug\CarCosts.pdb

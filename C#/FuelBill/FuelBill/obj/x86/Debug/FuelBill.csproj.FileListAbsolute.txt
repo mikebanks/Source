@@ -1,0 +1,5 @@
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FuelBill\FuelBill\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FuelBill\FuelBill\bin\Debug\FuelBill.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FuelBill\FuelBill\bin\Debug\FuelBill.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FuelBill\FuelBill\obj\x86\Debug\FuelBill.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FuelBill\FuelBill\obj\x86\Debug\FuelBill.pdb

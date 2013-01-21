@@ -1,0 +1,10 @@
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\Gallons\Gallons\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\Gallons\Gallons\bin\Debug\Gallons.exe
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\Gallons\Gallons\bin\Debug\Gallons.pdb
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\Gallons\Gallons\obj\x86\Debug\Gallons.exe
+\\Jaguar\mbanks5\Visual Studio 2010\Projects\Gallons\Gallons\obj\x86\Debug\Gallons.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Gallons\Gallons\obj\x86\Debug\Gallons.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Gallons\Gallons\obj\x86\Debug\Gallons.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Gallons\Gallons\bin\Debug\Gallons.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Gallons\Gallons\bin\Debug\Gallons.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Gallons\Gallons\obj\x86\Debug\ResolveAssemblyReference.cache

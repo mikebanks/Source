@@ -1,0 +1,5 @@
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FlightTracker\FlightTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FlightTracker\FlightTracker\bin\Debug\FlightTracker.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FlightTracker\FlightTracker\bin\Debug\FlightTracker.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FlightTracker\FlightTracker\obj\x86\Debug\FlightTracker.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\FlightTracker\FlightTracker\obj\x86\Debug\FlightTracker.pdb

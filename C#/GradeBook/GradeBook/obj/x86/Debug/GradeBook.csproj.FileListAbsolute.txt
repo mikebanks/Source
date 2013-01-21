@@ -1,0 +1,7 @@
+C:\Users\Owner\Source\C#\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\Owner\Source\C#\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\Owner\Source\C#\GradeBook\GradeBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Source\C#\GradeBook\GradeBook\obj\x86\Debug\GradeBook.exe
+C:\Users\Owner\Source\C#\GradeBook\GradeBook\obj\x86\Debug\GradeBook.pdb
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\GradeBook\GradeBook\obj\x86\Debug\GradeBook.exe
+C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\GradeBook\GradeBook\obj\x86\Debug\GradeBook.pdb

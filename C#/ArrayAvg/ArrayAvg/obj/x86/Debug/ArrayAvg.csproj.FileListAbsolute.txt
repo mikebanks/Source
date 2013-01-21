@@ -1,0 +1,6 @@
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.exe
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.pdb
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\ArrayAvg\ArrayAvg\obj\x86\Debug\ArrayAvg.exe
+C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\ArrayAvg\ArrayAvg\obj\x86\Debug\ArrayAvg.pdb
+z:\Visual Studio 2010\Projects\ArrayAvg\ArrayAvg\obj\x86\Debug\ArrayAvg.exe
+z:\Visual Studio 2010\Projects\ArrayAvg\ArrayAvg\obj\x86\Debug\ArrayAvg.pdb
