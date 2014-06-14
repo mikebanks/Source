@@ -1,0 +1,6 @@
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\StudyGuide\Study\Study\bin\Debug\Study.exe.config
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\StudyGuide\Study\Study\bin\Debug\Study.exe
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\StudyGuide\Study\Study\bin\Debug\Study.pdb
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\StudyGuide\Study\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\StudyGuide\Study\Study\obj\Debug\Study.exe
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\StudyGuide\Study\Study\obj\Debug\Study.pdb

@@ -1,0 +1,11 @@
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\obj\Release\projZ.Properties.Resources.resources
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\obj\Release\projZ.csproj.GenerateResource.Cache
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\bin\Release\projZ.exe.config
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\bin\Release\projZ.exe
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\bin\Release\projZ.pdb
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\obj\Release\projZ.exe
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\obj\Release\projZ.pdb
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\bin\Release\PicInfected.jpg
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\bin\Release\PicMap2.jpg
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\bin\Release\PicPerson.jpg
+C:\Users\mdowell\Documents\C# CSCI1302\Programs\inheritance\Zombie Sim\projZ\bin\Release\PicZombie.JPG

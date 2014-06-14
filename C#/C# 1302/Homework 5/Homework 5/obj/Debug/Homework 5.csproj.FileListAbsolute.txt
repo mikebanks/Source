@@ -1,0 +1,9 @@
+C:\Users\Michael\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\bin\Debug\Homework 5.exe.config
+C:\Users\Michael\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\obj\Debug\Homework 5.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\bin\Debug\Homework 5.exe
+C:\Users\Michael\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\bin\Debug\Homework 5.pdb
+C:\Users\Michael\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\obj\Debug\Homework 5.exe
+C:\Users\Michael\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\obj\Debug\Homework 5.pdb
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\bin\Debug\Homework 5.exe.config
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\obj\Debug\Homework 5.exe
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 5\Homework 5\obj\Debug\Homework 5.pdb

@@ -1,0 +1,8 @@
+c:\users\michael\documents\visual studio 2013\Projects\Homework 1\Homework 1\bin\Debug\Homework 1.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\C# 1302\Homework 1\Homework 1\bin\Debug\Homework 1.exe.config
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\bin\Debug\Homework 1.exe.config
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\bin\Debug\Homework 1.exe
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\bin\Debug\Homework 1.pdb
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\obj\Debug\Homework 1.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\obj\Debug\Homework 1.exe
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\obj\Debug\Homework 1.pdb

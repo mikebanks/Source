@@ -1,0 +1,9 @@
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\bin\Debug\Homework 1.exe.config
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\obj\Debug\Homework 1.exe
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Homework 1\obj\Debug\Homework 1.pdb
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Student\bin\Debug\Homework 1.exe.config
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Student\obj\Debug\Homework 1.exe
+C:\Users\Michael\Google Drive\Dev\Projects\C# 1302\Homework 1\Student\obj\Debug\Homework 1.pdb
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 1\Student\bin\Debug\Homework 1.exe.config
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 1\Student\obj\Debug\Homework 1.exe
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 1\Student\obj\Debug\Homework 1.pdb

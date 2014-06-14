@@ -1,0 +1,6 @@
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 11\Crazy Cousin\Crazy Cousin\bin\Debug\Crazy Cousin.exe.config
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 11\Crazy Cousin\Crazy Cousin\bin\Debug\Crazy Cousin.exe
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 11\Crazy Cousin\Crazy Cousin\bin\Debug\Crazy Cousin.pdb
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 11\Crazy Cousin\Crazy Cousin\obj\Debug\Crazy Cousin.csprojResolveAssemblyReference.cache
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 11\Crazy Cousin\Crazy Cousin\obj\Debug\Crazy Cousin.exe
+Z:\Google Drive\Dev\Projects (C#)\C# 1302\Homework 11\Crazy Cousin\Crazy Cousin\obj\Debug\Crazy Cousin.pdb
