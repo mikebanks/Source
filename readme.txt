@@ -2,4 +2,5 @@ This is just simply code and projects that I have worked on throughout my time a
 
 I am not saying this code is correct or complete, some of these are simply educational and practice projects.
 
--MB
+-Michael Banks
+(MikeBanks.org)
