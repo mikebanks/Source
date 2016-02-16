@@ -1,6 +1,0 @@
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Lunch\Lunch\bin\Debug\Lunch.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Lunch\Lunch\bin\Debug\Lunch.pdb
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Lunch\Lunch\obj\x86\Debug\Lunch.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Lunch\Lunch\obj\x86\Debug\Lunch.pdb
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Lunch\Lunch\obj\x86\Debug\Lunch.exe
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Lunch\Lunch\obj\x86\Debug\Lunch.pdb

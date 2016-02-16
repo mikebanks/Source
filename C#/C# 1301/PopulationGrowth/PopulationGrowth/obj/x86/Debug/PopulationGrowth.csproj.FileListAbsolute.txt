@@ -1,5 +1,0 @@
-z:\Visual Studio 2010\Projects\PopulationGrowth\PopulationGrowth\bin\Debug\PopulationGrowth.exe
-z:\Visual Studio 2010\Projects\PopulationGrowth\PopulationGrowth\bin\Debug\PopulationGrowth.pdb
-z:\Visual Studio 2010\Projects\PopulationGrowth\PopulationGrowth\obj\x86\Debug\ResolveAssemblyReference.cache
-z:\Visual Studio 2010\Projects\PopulationGrowth\PopulationGrowth\obj\x86\Debug\PopulationGrowth.exe
-z:\Visual Studio 2010\Projects\PopulationGrowth\PopulationGrowth\obj\x86\Debug\PopulationGrowth.pdb

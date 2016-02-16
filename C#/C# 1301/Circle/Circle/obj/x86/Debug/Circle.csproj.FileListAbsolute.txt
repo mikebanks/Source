@@ -1,7 +1,0 @@
-\\jaguar\mbanks5\visual studio 2010\Projects\Circle\Circle\obj\x86\Debug\ResolveAssemblyReference.cache
-\\jaguar\mbanks5\visual studio 2010\Projects\Circle\Circle\bin\Debug\Circle.exe
-\\jaguar\mbanks5\visual studio 2010\Projects\Circle\Circle\bin\Debug\Circle.pdb
-\\jaguar\mbanks5\visual studio 2010\Projects\Circle\Circle\obj\x86\Debug\Circle.exe
-\\jaguar\mbanks5\visual studio 2010\Projects\Circle\Circle\obj\x86\Debug\Circle.pdb
-z:\Visual Studio 2010\Projects\Circle\Circle\obj\x86\Debug\Circle.exe
-z:\Visual Studio 2010\Projects\Circle\Circle\obj\x86\Debug\Circle.pdb

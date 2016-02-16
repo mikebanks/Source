@@ -1,5 +1,0 @@
-C:\Users\Owner\Source\C#\GradeBook\GradeBook\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\Owner\Source\C#\GradeBook\GradeBook\bin\Release\GradeBook.exe
-C:\Users\Owner\Source\C#\GradeBook\GradeBook\bin\Release\GradeBook.pdb
-C:\Users\Owner\Source\C#\GradeBook\GradeBook\obj\x86\Release\GradeBook.exe
-C:\Users\Owner\Source\C#\GradeBook\GradeBook\obj\x86\Release\GradeBook.pdb

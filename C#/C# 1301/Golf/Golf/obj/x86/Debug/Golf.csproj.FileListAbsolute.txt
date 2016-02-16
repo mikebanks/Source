@@ -1,4 +1,0 @@
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Golf\Golf\bin\Debug\Golf.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Golf\Golf\bin\Debug\Golf.pdb
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Golf\Golf\obj\x86\Debug\Golf.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Golf\Golf\obj\x86\Debug\Golf.pdb

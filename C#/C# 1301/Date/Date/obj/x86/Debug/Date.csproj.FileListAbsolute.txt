@@ -1,6 +1,0 @@
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Date\Date\bin\Debug\Date.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Date\Date\bin\Debug\Date.pdb
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.pdb
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.exe
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.pdb

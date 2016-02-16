@@ -1,7 +1,0 @@
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Dialer\Dialer\bin\Debug\Dialer.exe
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Dialer\Dialer\bin\Debug\Dialer.pdb
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Dialer\Dialer\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Dialer\Dialer\obj\x86\Debug\Dialer.exe
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Dialer\Dialer\obj\x86\Debug\Dialer.pdb
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Dialer\Dialer\obj\x86\Debug\Dialer.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Dialer\Dialer\obj\x86\Debug\Dialer.pdb

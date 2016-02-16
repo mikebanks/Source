@@ -1,7 +1,0 @@
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Profile\Profile\bin\Debug\Profile.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Profile\Profile\bin\Debug\Profile.pdb
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Profile\Profile\obj\x86\Debug\Profile.exe
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Profile\Profile\obj\x86\Debug\Profile.pdb
-C:\Users\MikeBanks\Z Drive\Visual Studio 2010\Projects\Profile\Profile\obj\x86\Debug\Profile.csprojResolveAssemblyReference.cache
-z:\Visual Studio 2010\Projects\Profile\Profile\obj\x86\Debug\Profile.exe
-z:\Visual Studio 2010\Projects\Profile\Profile\obj\x86\Debug\Profile.pdb

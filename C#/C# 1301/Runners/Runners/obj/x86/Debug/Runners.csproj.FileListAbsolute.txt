@@ -1,7 +1,0 @@
-z:\Visual Studio 2010\Projects\Runners\Runners\bin\Debug\Runners.exe
-z:\Visual Studio 2010\Projects\Runners\Runners\bin\Debug\Runners.pdb
-z:\Visual Studio 2010\Projects\Runners\Runners\obj\x86\Debug\ResolveAssemblyReference.cache
-z:\Visual Studio 2010\Projects\Runners\Runners\obj\x86\Debug\Runners.exe
-z:\Visual Studio 2010\Projects\Runners\Runners\obj\x86\Debug\Runners.pdb
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Runners\Runners\obj\x86\Debug\Runners.exe
-C:\Users\Owner\Z Drive\Visual Studio 2010\Projects\Runners\Runners\obj\x86\Debug\Runners.pdb
